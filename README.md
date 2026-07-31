@@ -1,3 +1,3 @@
-# pix do mota
+# Pix dos reais crias
 
-para auxiliar aos que nao se recordam do numero do pix de motastico
+Para auxiliar todos os guris, tanto rápidos quanto lentos a ter os contatos contábeis uns dos outros
