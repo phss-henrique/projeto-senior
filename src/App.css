@@ -11,6 +11,9 @@
 
 .card {
   animation: fadeIn 0.9s ease-out;
+  flex-direction: column;
+  display: flex;
+  gap: 50px;
 }
 
 .title {
